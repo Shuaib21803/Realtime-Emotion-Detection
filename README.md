@@ -11,7 +11,7 @@
 
 ## Introduction
 
-An innovative project that combines the power of computer vision and speech analysis to provide real-time emotion detection in both facial expressions and spoken words. 
+An innovative project that combines the power of computer vision and speech analysis to provide real-time emotion detection in both facial expressions and voice tones. 
 
 ## Features
 
