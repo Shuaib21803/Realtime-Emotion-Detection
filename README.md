@@ -1,5 +1,3 @@
-# Realtime-Emotion-Detection
-
 # Real-time Facial and Speech Emotion Detection
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shuaib21803/Realtime-Emotion-Detection)
