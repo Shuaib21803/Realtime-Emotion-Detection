@@ -2,10 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shuaib21803/Realtime-Emotion-Detection)
 ![GitHub contributors](https://img.shields.io/github/contributors/Shuaib21803/Realtime-Emotion-Detection)
-![GitHub stars](https://img.shields.io/github/stars/Shuaib21803/Realtime-Emotion-Detection?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Shuaib21803/Realtime-Emotion-Detection?style=social)
-
-A real-time facial and speech emotion detection model using Machine Learning.
+![Docker Stars](https://img.shields.io/docker/stars/Shuaib21803/Realtime-Emotion-Detection)
+![GitHub forks](https://img.shields.io/github/forks/Shuaib21803/Realtime-Emotion-Detection)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +12,7 @@ A real-time facial and speech emotion detection model using Machine Learning.
 
 ## Introduction
 
-Briefly explain what your project is about, what problem it solves, and why it's useful. Mention the technologies, algorithms, or toolkits used in building the model.
+An innovative project that combines the power of computer vision and speech analysis to provide real-time emotion detection in both facial expressions and spoken words. 
 
 ## Features
 
