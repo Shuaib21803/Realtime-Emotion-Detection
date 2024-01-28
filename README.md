@@ -21,4 +21,4 @@ An innovative project that combines the power of computer vision and speech anal
 
 ## Usage
 
-Run the Realtime_Emotion_Detection.ipynb file.
+Run the gui.ipynb file.
